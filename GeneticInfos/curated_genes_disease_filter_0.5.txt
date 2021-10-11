@@ -1,8 +1,8 @@
 geneId	geneSymbol	DSI	DPI	diseaseId	diseaseName	diseaseType	diseaseClass	diseaseSemanticType	score	EI	YearInitial	YearFinal	NofPmids	NofSnps	source
-7	2	A2M	0.529	0.769	C2239176	Liver carcinoma	disease	C06;C04	Neoplastic Process	0.51	1	2004	2004	1	0	CTD_human
-76	16	AARS1	0.647	0.462	C2750090	Charcot-Marie-Tooth Disease, Axonal, Type 2n	disease	C16;C10	Disease or Syndrome	0.71	1	2010	2019	5	3	CTD_human;GENOMICS_ENGLAND;UNIPROT
-77	16	AARS1	0.647	0.462	C4225361	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 29	disease		Disease or Syndrome	0.7	1	2015	2017	2	4	CTD_human;GENOMICS_ENGLAND;UNIPROT
-100	18	ABAT	0.628	0.538	C0277839	Hoffmans Reflex	phenotype	C23;C10	Finding	0.30	1	1999	1999	   1	   0	CTD_human
+2	A2M	0.529	0.769	C2239176	Liver carcinoma	disease	C06;C04	Neoplastic Process	0.51	1	2004	2004	1	0	CTD_human
+16	AARS1	0.647	0.462	C2750090	Charcot-Marie-Tooth Disease, Axonal, Type 2n	disease	C16;C10	Disease or Syndrome	0.71	1	2010	2019	5	3	CTD_human;GENOMICS_ENGLAND;UNIPROT
+16	AARS1	0.647	0.462	C4225361	EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 29	disease		Disease or Syndrome	0.7	1	2015	2017	2	4	CTD_human;GENOMICS_ENGLAND;UNIPROT
+18	ABAT	0.628	0.538	C0277839	Hoffmans Reflex	phenotype	C23;C10	Finding	0.30	1	1999	1999	   1	   0	CTD_human
        18	ABAT	0.628	0.538	C0277850	Reflex, Pendular	phenotype	C23;C10	Finding	0.30	1	1999	1999	   1	   0	CTD_human
        18	ABAT	0.628	0.538	C0278211	Reflex, Corneal, Absent	phenotype	C23;C10	Finding	0.30	1	1999	1999	   1	   0	CTD_human
        18	ABAT	0.628	0.538	C0342708	Gamma aminobutyric acid transaminase deficiency	disease	C16;C18	Disease or Syndrome	0.70	1	1998	2019	   5	   8	CTD_human;GENOMICS_ENGLAND;ORPHANET;UNIPROT
