@@ -1,0 +1,59 @@
+Medical Condition / Topic,Heritability Est.,Heritability Final,References,ICD10 code
+Graves' disease,79%,79%,[PMID 11158069], E05. 00
+Polycystic ovary syndrome,72%,72%,[PMID 16219714], E28.2
+Alcoholism,50 - 60%,55%,[PMID 19785977], F10.1
+Age-related macular degeneration,49 - 71%,60%,[PMID 9869796]," H35.31, H35.32, H35"
+Colon cancer,13%,13%,[PMID 11979442],C18
+Testicular cancer,25%,25%,[PMID 11979442],C62. 9
+Thyroid cancer,53%,53%,[PMID 11979442],C73
+Lung cancer,8%,8%,[PMID 11979442],D02
+Breast cancer,25 - 56%,45%,[PMID 11979442] [PMID 2491011],D05
+Cervical cancer,22%,22%,[PMID 11979442],D06
+Ovarian cancer,40%,40%,[PMID 2491011],D07
+Prostate cancer,42%,42%,[PMID 12642065],D07
+Bladder cancer,7 - 31%,15%,[PMID 21927616],D09
+Diabetes type-1,88%,88%,[PMID 12663480],E10
+Diabetes type-2,26%,26%,[PMID 10064092],E11
+Obesity,70%,70%,[PMID 16987875],E66
+Schizophrenia,81%,81%,[PMID 14662550],F20
+Bipolar disorder,70%,70%,[PMID 14601036],F31
+Premenstrual dysphoric disorder,35 - 56%,44%,[PMID 1574568] [PMID 9734548],F32.81
+Depression (Major Depressive Disorder),35 - 50%,44%,[PMID 15877306] [PMID 11007705],F33
+Anorexia nervosa,57 - 79%,65%,[PMID 19828139],F50
+Autism,30 - 90%,45%,[PMID 17033636],F84
+Attention deficit hyperactivity disorder,70%,70%,[PMID 22833045],F90.1
+Tourette syndrome,58 - 77%,61%,[PMID 24204291] [PMID 26083307],F95. 2
+Parkinson's disease,25 - 30%,27%,[PMID 21738487],G20
+Essential Tremor,75%,75%,[PMID 31085086],G25
+Alzheimer's disease,58 - 79%,62%,[PMID 16461860],G30
+Epilepsy,70 - 88%,78%,[PMID 11325572],G40
+Migraine,53%,53%,[PMID 22678113],G43
+Insomnia,48%,48%,[PMID 22704400],G47
+Glaucoma,36 - 57%,42%,[PMID 14691154],H40
+Age-related hearing impairment,56 - 70%,62%,[PMID 22558162],H91
+Hypertension,30%,30%,[PMID 15808811],I10
+Coronary artery disease,49%,49%,[PMID 15710764],I25
+Atrial fibrillation,20%,20%,[PMID 29237688],I48.0
+Abdominal aortic aneurysm,71%,71%,[PMID 19939604],"I71.3, I71.4"
+Venous thromboembolism,40 - 47%,45%,[PMID 27793415],I82. 90 
+Chronic obstructive pulmonary disease,76%,76%,[PMID 20541380],J44
+Asthma,30%,30%,[PMID 16117840],J45 
+Periodontitis,42%,42%,[PMID 19648170],K05
+Crohn's disease,53%,53%,[PMID 3396969],K50
+Irritable bowel syndrome,"""little""? or 44% for females?",44%,[PMID 15929767] [PMID 17008364],K58
+Gallstone disease,25%,25%,[PMID 15747383],K82. 9
+Celiac disease,57 - 87%,72%,[PMID 16354797],K90
+Eczema (adults),61%,61%,[PMID 11742265],L20
+Psoriasis,66%,66%,[PMID 17958839],L40
+Androgenic alopecia (females),80%,80%,[PMID 18849991],L64.9 
+Acne,81%,81%,[PMID 12485434],L70
+Rosacea,46%,46%,[PMID 26307938],L71
+Lupus,44 - 66%,55%,[PMID 17136562] [PMID 3430520],L93
+Rheumatoid arthritis,55%,55%,[PMID 18835879],M05
+Osteoarthritis,30 - 65%,50%,[PMID 8616305] [PMID 12855031] [PMID 19153142],M19
+Ankylosing spondylitis,90%,90%,[PMID 21296192],M45
+Sciatica,20%,20%,[PMID 2605032],M54
+Dupuytren's disease,80%,80%,[PMID 24835475],M72
+Erectile Dysfunction,35%,35%,[PMID 14744839],N52
+Kidney stones,56%,56%,[PMID 19561606],Q63
+Anhedonia,44%,44%,[PMID 18507876],R45.84
