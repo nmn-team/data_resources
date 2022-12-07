@@ -1,10 +1,12 @@
 Medical Condition / Topic,Heritability Est.,Heritability Final,References,ICD10 code
-Graves' disease,79%,79%,[PMID 11158069], E05. 00
+Graves' disease,79%,79%,[PMID 11158069], E05.00
 Polycystic ovary syndrome,72%,72%,[PMID 16219714], E28.2
 Alcoholism,50 - 60%,55%,[PMID 19785977], F10.1
-Age-related macular degeneration,49 - 71%,60%,[PMID 9869796]," H35.31, H35.32, H35"
+Age-related macular degeneration,49 - 71%,60%,[PMID 9869796],H35.31
+Age-related macular degeneration,49 - 71%,60%,[PMID 9869796],H35.32"
+Age-related macular degeneration,49 - 71%,60%,[PMID 9869796],H35"
 Colon cancer,13%,13%,[PMID 11979442],C18
-Testicular cancer,25%,25%,[PMID 11979442],C62. 9
+Testicular cancer,25%,25%,[PMID 11979442],C62.9
 Thyroid cancer,53%,53%,[PMID 11979442],C73
 Lung cancer,8%,8%,[PMID 11979442],D02
 Breast cancer,25 - 56%,45%,[PMID 11979442] [PMID 2491011],D05
@@ -22,7 +24,7 @@ Depression (Major Depressive Disorder),35 - 50%,44%,[PMID 15877306] [PMID 110077
 Anorexia nervosa,57 - 79%,65%,[PMID 19828139],F50
 Autism,30 - 90%,45%,[PMID 17033636],F84
 Attention deficit hyperactivity disorder,70%,70%,[PMID 22833045],F90.1
-Tourette syndrome,58 - 77%,61%,[PMID 24204291] [PMID 26083307],F95. 2
+Tourette syndrome,58 - 77%,61%,[PMID 24204291] [PMID 26083307],F95.2
 Parkinson's disease,25 - 30%,27%,[PMID 21738487],G20
 Essential Tremor,75%,75%,[PMID 31085086],G25
 Alzheimer's disease,58 - 79%,62%,[PMID 16461860],G30
