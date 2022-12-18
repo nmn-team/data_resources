@@ -1,0 +1,72 @@
+Source,https://www.health.state.ok.us/stats/Vital_Statistics/Death/113_causes.shtml
+condition name,ICD-10 code(s)
+Shigellosis and amebiasis,"A03,A06"
+Respiratory tuberculosis.,A16
+Whooping cough,A37
+Scarlet fever and erysipelas,"A38,A46"
+Meningococcal infection,A39
+Septicemia,A40-A41
+Syphilis,A50-A53
+Acute poliomyelitis,A80
+Arthropod-borne viral encephalitis,"A83-A84,A85.2"
+Measles,B05
+Viral hepatitis,B15-B19
+Human immunodeficiency virus (HIV) disease,B20-B24
+Malaria,B50-B54
+"Malignant neoplasms of lip, oral cavity and pharynx",C00-C14
+Malignant neoplasm of esophagus,C15
+Malignant neoplasm of stomach,C16
+"Malignant neoplasms of colon, rectum and anus",C18-C21
+Malignant neoplasms of liver and intrahepatic bile ducts,C22
+Malignant neoplasm of pancreas,C25
+Malignant neoplasm of larynx,C32
+"Malignant neoplasms of trachea, bronchus and lung",C33-C34
+Malignant melanoma of skin,C43
+Malignant neoplasm of breast,C50
+Malignant neoplasm of cervix uteri,C53
+"Malignant neoplasms of corpus uteri and uterus, part unspecified",C54-C55
+Malignant neoplasm of ovary,C56
+Malignant neoplasm of prostate,C61
+Malignant neoplasms of kidney and renal pelvis,C64-C65
+Malignant neoplasm of bladder,C67
+"Malignant neoplasms of meninges, brain and other parts of central nervous system",C70-C72
+Hodgkin's disease,C81
+Non-Hodgkin's lymphoma,C82-C85
+Multiple myeloma and immunoproliferative neoplasms,"C88,C90"
+Leukemia,C91-C95
+Anemia,D50-D64
+Diabetes mellitus,E10-E14
+Malnutrition,E40-E46
+Meningitis,"G00,G03"
+Parkinson's disease,G20-G21
+Alzheimer's disease,G30
+Acute rheumatic fever and chronic rheumatic heart diseases,I00-I09
+Essential (primary) hypertension and hypertensive renal disease,"I10,I12"
+Hypertensive heart disease,I11
+Hypertensive heart and renal disease,I13
+Acute myocardial infarction,I21-I22
+Other acute ischemic heart diseases,I24
+"Atherosclerotic cardiovascular disease, so described",I25.0
+Diseases of pericardium and acute myocarditis,"I30-I31,I40"
+Acute and subacute endocarditis,I33
+Heart failure,I50
+Cerebrovascular diseases,I60-I69
+Atherosclerosis,I70
+Aortic aneurysm and dissection,I71
+Acute bronchitis and bronchiolitis,J20-J21
+"Bronchitis, chronic and unspecified",J40-J42
+Emphysema,J43
+Asthma,J45-J46
+Pneumonitis due to solids and liquids,J69
+Hernia,K40-K46
+Alcoholic liver disease,K70
+Cholelithiasis and other disorders of gallbladder,K80-K82
+Acute and rapidly progressive nephritic and nephrotic syndrome,"N00-N01,N04"
+"Chronic glomerulonephritis, nephritis and nephritis not specified  as acute or chronic,and renal sclerosis unspecified","N02-N03, N05-N07, N26"
+Infections of kidney,"N10-N12, N13.6, N15.1"
+Renal failure,N17-N19
+Hyperplasia of prostate,N40
+Inflammatory diseases of female pelvic organs,N70-N76
+Pregnancy with abortive outcome,O00-O07
+Certain conditions originating in the perinatal period,P00-P96
+"Congenital malformations, deformations and chromosomal abnormalities",Q00-Q99
