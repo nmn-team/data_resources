@@ -1,0 +1,49 @@
+ICD10 codes 	Disease name (target display text)	Link 	Display code
+A22	Anthrax	https://www.cdc.gov/anthrax/	CDC
+M00-M99	Arthritis	https://www.cdc.gov/arthritis/	CDC
+F84	Autism spectrum disorder	https://www.cdc.gov/ncbddd/autism/index.html	CDC
+Q00-Q99	Birth defects	https://www.cdc.gov/ncbddd/birthdefects/index.html	CDC
+C00-C97	Cancer	https://www.cdc.gov/cancer/index.html	CDC
+B57	Chagas disease	https://www.cdc.gov/chagas/index.html	CDC
+G93.32	Chronic fatigue syndrome	https://www.cdc.gov/me-cfs/index.html	CDC
+N00-N07,	Chronic kidney disease	https://www.cdc.gov/ckd/index.html	CDC
+J40-J44	Chronic obstructive pulmonary disease (COPD)	https://www.cdc.gov/copd/index.html	CDC
+C18-C21	Colorectal cancer	https://www.cdc.gov/cancer/colorectal/	CDC
+A50.1	Congenital syphilis	https://www.cdc.gov/std/syphilis/stdfact-congenital-syphilis.htm	CDC
+E84	Cystic fibrosis	https://www.cdc.gov/genomics/disease/cystic_fibrosis.htm	CDC
+F00-F03, G30	Dementia	https://www.cdc.gov/aging/aginginfo/alzheimers.htm	CDC
+E10-E14	Diabetes	https://www.cdc.gov/diabetes/index.html	CDC
+Q90	Down syndrome	https://www.cdc.gov/ncbddd/birthdefects/downsyndrome.html	CDC
+A98.4	Ebola virus disease	https://www.cdc.gov/vhf/ebola/index.html	CDC
+A00-A09, A22, A28	Food poisoning	https://www.cdc.gov/foodsafety/foodborne-germs.html	CDC
+I00-I09, I11, I13-I15, I20-I51	Heart disease	https://www.cdc.gov/heartdisease/	CDC
+B15-B19	Hepatitis	https://www.cdc.gov/hepatitis/index.htm	CDC
+B20-B24	HIV/AIDS	https://www.cdc.gov/hiv/index.html	CDC
+R87, A66, A63,	HPV	https://www.cdc.gov/hpv/index.html	CDC
+J10-J11	Influenza	https://www.cdc.gov/flu/index.htm	CDC
+K58	Irritable bowel syndrome	https://www.cdc.gov/ibd/index.htm	CDC
+A96.0	Lassa fever	https://www.cdc.gov/vhf/lassa/index.html	CDC
+A30	Leprosy	https://www.cdc.gov/leprosy/index.html	CDC
+A69	Lyme disease	https://www.cdc.gov/lyme/index.html	CDC
+B50-B54	Malaria	https://www.cdc.gov/malaria/index.html	CDC
+E40-E46	Malnutrition	https://www.cdc.gov/nutrition/index.html	CDC
+B05	Measles	https://www.cdc.gov/measles/index.html	CDC
+G00-G03	Meningitis	https://www.cdc.gov/meningitis/index.html	CDC
+U05.4	Middle East respiratory syndrome (MERS)	https://www.cdc.gov/coronavirus/mers/index.html	CDC
+B26	Mumps	https://www.cdc.gov/mumps/index.html	CDC
+U07.1	Novel coronavirus (COVID-19)	https://www.cdc.gov/coronavirus/2019-ncov/index.html	CDC
+E66	Overweight and obesity	https://www.cdc.gov/obesity/index.html	CDC
+A20	Plague	https://www.cdc.gov/plague/index.html	CDC
+O00-O9A	Pregnancy	https://www.cdc.gov/reproductivehealth/maternalinfanthealth/index.html	CDC
+O60	Preterm birth	https://www.cdc.gov/reproductivehealth/MaternalInfantHealth/PretermBirth.htm	CDC
+A82	Rabies	https://www.cdc.gov/rabies/index.html	CDC
+A82	Rabies	https://www.cdc.gov/rabies/index.html	CDC
+B06	Rubella	https://www.cdc.gov/rubella/index.html	CDC
+U04.4	Severe acute respiratory syndrome (SARS)	https://www.cdc.gov/sars/index.html	CDC
+A50-A64, A69, A70, A74	Sexually transmitted infections	https://www.cdc.gov/std/default.htm	CDC
+B03	Smallpox	https://www.cdc.gov/smallpox/index.html	CDC
+F11-F16, F18-F19	Substance abuse	https://www.cdc.gov/drugoverdose/index.html	CDC
+A15-A19	Tuberculosis	https://www.cdc.gov/tb/default.htm	CDC
+A92.4	West Nile virus	https://www.cdc.gov/westnile/index.html	CDC
+A92.3	West Nile virus	https://www.cdc.gov/westnile/index.html	CDC
+A95	Yellow fever	https://www.cdc.gov/yellowfever/index.html	CDC

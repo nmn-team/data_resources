@@ -1,0 +1,86 @@
+ICD-10	Disease general name (target display text)	Guidance	Display code
+L70	Acne	https://www.nice.org.uk/guidance/ng198	NICE
+K70, K73-K74	Alcohol-related liver disease	https://www.nice.org.uk/guidance/cg100	NICE
+G30	Alzheimer's disease	https://www.nice.org.uk/guidance/ng97	NICE
+M45	Ankylosing spondylitis	https://www.nice.org.uk/guidance/ng65	NICE
+M45	Ankylosing spondylitis	https://www.nice.org.uk/guidance/ng65	NICE
+F01, F03, G30	Antenatal and postnatal mental health	https://www.nice.org.uk/guidance/cg192	NICE
+M05-M14	Arthritis	https://www.nice.org.uk/guidance/ng226	NICE
+J45	Asthma	https://www.nice.org.uk/guidance/ng80	NICE
+I48	Atrial fibrillation	https://www.nice.org.uk/guidance/ng196	NICE
+I49	Atrial flutter	https://www.nice.org.uk/guidance/ng196	NICE
+F84	Autism	https://www.nice.org.uk/guidance/qs51	NICE
+M54, M60-M79	Back pain	https://www.nice.org.uk/guidance/NG59	NICE
+J18	Bacterial pneumonia	https://www.nice.org.uk/guidance/cg191	NICE
+F31	Bipolar disorder	https://www.nice.org.uk/guidance/cg185	NICE
+I10-I15	Blood pressure	https://www.nice.org.uk/guidance/ng136	NICE
+F60.3	Borderline personality disorder	https://www.nice.org.uk/guidance/cg78	NICE
+C50	Breast cancer	https://www.nice.org.uk/guidance/ng101	NICE
+J20	Bronchitis	https://www.nice.org.uk/guidance/cg191	NICE
+C00-C97	Cancer	https://www.nice.org.uk/guidance/ng12	NICE
+I00-I99	Cardiovascular disease	https://www.nice.org.uk/guidance/cg181	NICE
+H25	Cataracts	https://www.nice.org.uk/guidance/ng77	NICE
+K90	Celiac disease	https://www.nice.org.uk/guidance/ng20	NICE
+G80	Cerebral palsy	https://www.nice.org.uk/guidance/ng119	NICE
+C53	Cervical cancer	https://www.nice.org.uk/guidance/ng12	NICE
+R07, R09	Chest pain	https://www.nice.org.uk/guidance/cg95	NICE
+A56	Chlamydia	https://www.nice.org.uk/guidance/qs178	NICE
+G93.3	Chronic fatigue syndrome	https://www.nice.org.uk/guidance/ng206	NICE
+N00-N07, N17-N19, N25-N27	Chronic kidney disease	https://www.nice.org.uk/guidance/ng203	NICE
+J44	Chronic obstructive pulmonary disease	https://www.nice.org.uk/guidance/ng115	NICE
+M54, M60-M79	Chronic pain	https://www.nice.org.uk/guidance/ng193	NICE
+K74	Cirrhosis	https://www.nice.org.uk/guidance/ng50	NICE
+C18-C21	Colorectal cancer	https://www.nice.org.uk/guidance/ng151	NICE
+J44	COPD	https://www.nice.org.uk/guidance/ng115	NICE
+I20-I25	Coronary heart disease	https://www.nice.org.uk/guidance/cg181	NICE
+K50	Crohn's disease	https://www.nice.org.uk/guidance/ng129	NICE
+E84	Cystic fibrosis	https://www.nice.org.uk/guidance/ng78	NICE
+F01, F03, G30	Dementia	https://www.nice.org.uk/guidance/ng97	NICE
+F01, F03, G30	Dementia	https://www.nice.org.uk/guidance/ng97	NICE
+F32	Depression	https://www.nice.org.uk/guidance/ng222	NICE
+E10-E14	Diabetes	https://www.nice.org.uk/guidance/ng28	NICE
+F50, F52	Eating disorders	https://www.nice.org.uk/guidance/ng69	NICE
+L20	Eczema	https://www.nice.org.uk/guidance/cg57	NICE
+G40, G41	Epilepsy	https://www.nice.org.uk/guidance/ng217	NICE
+W00-W19	Falls	https://www.nice.org.uk/guidance/cg161	NICE
+S02-S06, S12-S19, S42-S49	Fractures	https://www.nice.org.uk/guidance/cg124	NICE
+M10	Gout	https://www.nice.org.uk/guidance/ng219	NICE
+G44, G45	Headaches	https://www.nice.org.uk/guidance/cg150	NICE
+I21-I22	Heart attack	https://www.nice.org.uk/guidance/ng185	NICE
+I50-I51	Heart failure	https://www.nice.org.uk/guidance/cg187	NICE
+B16	Hepatitis B	https://www.nice.org.uk/guidance/cg165	NICE
+B17	Hepatitis C	https://www.nice.org.uk/guidance/ph43	NICE
+B20-B24	HIV	https://www.nice.org.uk/guidance/ng60	NICE
+I10-I15	Hypertension	https://www.nice.org.uk/guidance/cg127	NICE
+I10-I15	Hypertension	https://www.nice.org.uk/guidance/cg127	NICE
+N46, N97	Infertility	https://www.nice.org.uk/guidance/cg156	NICE
+J10-J11	Influenza	https://www.nice.org.uk/guidance/cg69	NICE
+K58	Irritable bowel syndrome	https://www.nice.org.uk/guidance/qs114	NICE
+C32	Laryngeal cancer	https://www.nice.org.uk/guidance/ng36	NICE
+C33, C34	Lung cancer	https://www.nice.org.uk/guidance/ng122	NICE
+N95	Menopause	https://www.nice.org.uk/guidance/ng23	NICE
+F01-F99	Mental health	https://www.nice.org.uk/guidance/cg123	NICE
+G43, G44	Migraine	https://www.nice.org.uk/guidance/cg150	NICE
+G35	Multiple sclerosis	https://www.nice.org.uk/guidance/ng220	NICE
+E66	Obesity	https://www.nice.org.uk/guidance/cg189	NICE
+M15-M19	Osteoarthritis	https://www.nice.org.uk/guidance/ng226	NICE
+M80	Osteoporosis	https://www.nice.org.uk/guidance/cg146	NICE
+C56	Ovarian cancer	https://www.nice.org.uk/guidance/cg122	NICE
+C25	Pancreatic cancer	https://www.nice.org.uk/guidance/ng85	NICE
+G20	Parkinson's disease	https://www.nice.org.uk/guidance/ng71	NICE
+C61	Prostate cancer	https://www.nice.org.uk/guidance/ng131	NICE
+L40	Psoriasis	https://www.nice.org.uk/guidance/cg153	NICE
+M05-M06	Rheumatoid arthritis	https://www.nice.org.uk/guidance/ng100	NICE
+F20	Schizophrenia	https://www.nice.org.uk/guidance/cg178	NICE
+D57	Sickle cell disease	https://www.nice.org.uk/guidance/qs58	NICE
+C44, C51-C52	Skin cancer	https://www.nice.org.uk/guidance/qs130	NICE
+I60-I69	Stroke	https://www.nice.org.uk/guidance/ng128	NICE
+C62	Testicular cancer	https://www.nice.org.uk/guidance/ng12	NICE
+C73	Thyroid cancer	https://www.nice.org.uk/guidance/ng230	NICE
+E10	Type 1 diabetes	https://www.nice.org.uk/guidance/ng17	NICE
+E11-E14	Type 2 diabetes	https://www.nice.org.uk/guidance/ng28	NICE
+N39.0, N39.1, N39.3, N39.4, N39.8, N39.9	Urinary incontinence	https://www.nice.org.uk/guidance/ng123	NICE
+C54	Uterine cancer	https://www.nice.org.uk/guidance/ng12	NICE
+C52	Vaginal cancer	https://www.nice.org.uk/guidance/ng12	NICE
+I83	Varicose veins	https://www.nice.org.uk/guidance/cg168	NICE
+I26, I80-I82	Venous thromboembolism	https://www.nice.org.uk/guidance/ng158	NICE
